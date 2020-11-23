@@ -16,6 +16,7 @@ public class GroupAnagrams {
 		}
 		
 		System.out.println(solution.groupAnagrams(strs)) ;
+		System.out.println("Subham") ;
 
 	}
 
