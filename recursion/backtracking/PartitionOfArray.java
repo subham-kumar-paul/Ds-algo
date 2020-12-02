@@ -2,7 +2,7 @@ package recursion.backtracking;
 
 import java.util.*;
 
-public class PartitoonOfArray {
+public class PartitionOfArray {
 
 	public static void main(String[] args) {
 		
